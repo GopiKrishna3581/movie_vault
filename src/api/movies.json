@@ -1,0 +1,310 @@
+[
+    {
+      "title": "Inception",
+      "poster": "https://images2.alphacoders.com/845/thumbbig-84502.webp",
+      "genre": "Action, Sci-Fi",
+      "runtime": "148 min"
+    },
+    {
+      "title": "The Dark Knight",
+      "poster": "https://images.alphacoders.com/262/thumbbig-262593.webp",
+      "genre": "Action, Crime, Drama",
+      "runtime": "152 min"
+    },
+    {
+      "title": "Interstellar",
+      "poster": "https://imgs.search.brave.com/pMLGHyxh3fL1BGVHn4KAl8Ft80LlyuaLF9glfDUhDQE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b3JpZ2luYWxmaWxt/YXJ0LmNvbS9jZG4v/c2hvcC9wcm9kdWN0/cy9pbnRlcnN0ZWxs/YXJfMjAxNF9hZHZh/bmNlX29yaWdpbmFs/X2ZpbG1fYXJ0XzY4/Mjg1MmYyLTIzZjYt/NDZkZS1hMWRiLTQw/MjlkNWI2ZjBiNC5q/cGc_dj0xNTc0Mjg0/MDEwJndpZHRoPTEy/MDA",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "runtime": "169 min"
+    },
+    {
+      "title": "The Matrix",
+      "poster": "https://images8.alphacoders.com/117/thumbbig-1175352.webp",
+      "genre": "Action, Sci-Fi",
+      "runtime": "136 min"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "poster": "https://picfiles.alphacoders.com/346/thumb-1920-346794.jpg",
+      "genre": "Drama",
+      "runtime": "142 min"
+    },
+    {
+      "title": "The Godfather",
+      "poster": "https://images4.alphacoders.com/202/thumbbig-202638.webp",
+      "genre": "Crime, Drama",
+      "runtime": "175 min"
+    },
+    {
+      "title": "Pulp Fiction",
+      "poster": "https://images3.alphacoders.com/765/thumbbig-76577.webp",
+      "genre": "Crime, Drama",
+      "runtime": "154 min"
+    },
+    {
+      "title": "Fight Club",
+      "poster": "https://picfiles.alphacoders.com/464/thumb-1920-464930.jpg",
+      "genre": "Drama",
+      "runtime": "139 min"
+    },
+    {
+      "title": "Forrest Gump",
+      "poster": "https://picfiles.alphacoders.com/358/thumb-1920-358083.jpg",
+      "genre": "Drama, Romance",
+      "runtime": "142 min"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "https://images.alphacoders.com/132/thumb-440-1329393.webp",
+      "genre": "Action, Adventure, Drama",
+      "runtime": "178 min"
+    },
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "poster": "https://images4.alphacoders.com/227/thumbbig-227268.webp",
+      "genre": "Action, Adventure, Fantasy",
+      "runtime": "121 min"
+    },
+    {
+      "title": "The Avengers",
+      "poster": "https://avatarfiles.alphacoders.com/364/thumb-350-364240.webp",
+      "genre": "Action, Adventure, Sci-Fi",
+      "runtime": "143 min"
+    },
+    {
+      "title": "Avatar",
+      "poster": "https://imgs.search.brave.com/HICuy16YBn1v1Hkl-scwsLDzwoxCVaoc5WHHWYOKD_g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpEQTBPR1F4/TlRJdE1EWmtNQzAw/TjJVeUxUZzNNek10/WVRKbU5qZzNOems1/TXpSaVhrRXlYa0Zx/Y0dkZVFYVnlNalV6/T1RZMU5UY0AuanBn",
+      "genre": "Action, Adventure, Sci-Fi",
+      "runtime": "162 min"
+    },
+    {
+      "title": "Gladiator",
+      "poster": "https://imgs.search.brave.com/TrJX5iiQPX3j_XRF-jIImmqRjuJWf88Yf8cDT1F04Os/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9lMjZz/cXF1bWp1My5leGFj/dGRuLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wNC9T/Y3JlZW5zaG90LTIw/MjMtMDQtMjItMTIy/MTM1LTEwMTR4MTAy/NC5qcGc_c3RyaXA9/YWxsJmxvc3N5PTEm/c3NsPTE",
+      "genre": "Action, Adventure, Drama",
+      "runtime": "155 min"
+    },
+    {
+        "title": "Whiplash",
+        "poster": "https://imgs.search.brave.com/m2St225FrJ6F9h8mztCgOZAczlGb2ibg0nH66HoH9AI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9EWmpOMkUy/TkRjdE9XWmxNeTAw/TUdFMExXRmxNbU10/WVdZME16YzFOREEy/TjJWa1hrRXlYa0Zx/Y0dkZVFYVnlORFV6/TnpFeE9URUAuanBn",
+        "genre": "Drama, Music",
+        "runtime": "106 min"
+      },
+      {
+        "title": "The Social Network",
+        "poster": "https://imgs.search.brave.com/FZUq1kWzteAtqqBQ4l83JhzpftwO_OWHxTRbGKeghPo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLnNyY2RuLmNv/bS93b3JkcHJlc3Mv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDMvdGhlLXNvY2lh/bC1uZXR3b3JrLTEu/anBn",
+        "genre": "Biography, Drama",
+        "runtime": "120 min"
+      },
+      {
+        "title": "Parasite",
+        "poster": "https://imgs.search.brave.com/yrI3S7PQCgLpC-6h79zFy6qR5XWJ4Mfvp1GC6vtwAMw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMxLmlnbmltZ3Mu/Y29tLzIwMTkvMDgv/MTQvcGFyYXNpdGUt/MjAxOS1idXR0b24t/MTU2NTgxMzE5NjU0/NC5qcGc_d2lkdGg9/MTE0JmF1dG89d2Vi/cA",
+        "genre": "Comedy, Drama, Thriller",
+        "runtime": "132 min"
+      },
+      {
+        "title": "Get Out",
+        "poster": "https://imgs.search.brave.com/4KEC36Gd57K7y_5etwCv0omxXui0IMFS8VRU8G-FWo4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qVXhNRFF3/TmpjeU5sNUJNbDVC/YW5CblhrRnRaVGd3/Tnpjd016YzBNVElA/LmpwZw",
+        "genre": "Horror, Mystery, Thriller",
+        "runtime": "104 min"
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "poster": "https://imgs.search.brave.com/ypFIaH55C-h1fq4cqXERF8sMqGouKIficajtTuFXS1A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1UVTVOREE1/TURRM00xNUJNbDVC/YW5CblhrRnRaVGd3/Tmpjd09EWXlNVEVA/LmpwZw",
+        "genre": "Adventure, Comedy, Crime",
+        "runtime": "99 min"
+      },
+      {
+        "title": "A Beautiful Mind",
+        "poster": "https://imgs.search.brave.com/0WJ8demqGy1LRYaMGdasozrujQ40JuV_47P87wb0pZc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk16Y3dZV0Zr/WXprdFpqQXpOQzAw/T0dZMUxXSTRZVGd0/TnpjNU16VmpNRFZt/TmpZMFhrRXlYa0Zx/Y0dkZVFYVnlNVFF4/TnpNek5ESUAuanBn",
+        "genre": "Biography, Drama",
+        "runtime": "135 min"
+      },
+      {
+        "title": "Memento",
+        "poster": "https://imgs.search.brave.com/9iALWMMWJJfFS2Wwemgm7obs6oSx6jPKJlKTchJwc7Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpUY3lOamsx/TWpndE9XSTNNaTAw/WXpRd0xXSTVNVGt0/TXpZNFptSTJOREF5/TnpZelhrRXlYa0Zx/Y0dkZVFYVnlOalUw/T1RRME9UWUAuanBn",
+        "genre": "Mystery, Thriller",
+        "runtime": "113 min"
+      },
+      {
+        "title": "American Beauty",
+        "poster": "https://imgs.search.brave.com/9xsXKrBKxMEOjJZRsBudA2OyGHkSa9wCgb7tNjebm3s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5EazFOV05q/TXpRdFlqRXpZeTAw/WXpobUxXRXpZemd0/TUdVMU5XWmlZemxq/TVdOalhrRXlYa0Zx/Y0dkZVFYVnlPRGMw/T1RFeU5EVUAuanBn",
+        "genre": "Drama",
+        "runtime": "122 min"
+      },
+      {
+        "title": "The Truman Show",
+        "poster": "https://imgs.search.brave.com/UJL-yc17HioU7zRx-M_Z9sA5S-Y1a5piebD0OmGPuP0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L25pZ2h0amFycHJv/ZC9jb250ZW50L3Vw/bG9hZHMvc2l0ZXMv/MTkyLzIwMjMvMDgv/MTUxMTUxMTEvdnV6/YTBXcVkyMzl5QlhP/YWRLbEd3SnNaSkZF/LmpwZw",
+        "genre": "Comedy, Drama",
+        "runtime": "103 min"
+      },
+      
+    {
+      "title": "Titanic",
+      "poster": "https://images4.alphacoders.com/617/thumb-440-617213.webp",
+      "genre": "Drama, Romance",
+      "runtime": "195 min"
+    },
+    {
+      "title": "Jurassic Park",
+      "poster": "https://images2.alphacoders.com/129/thumb-440-1293027.webp",
+      "genre": "Adventure, Sci-Fi, Thriller",
+      "runtime": "127 min"
+    },
+    {
+      "title": "The Lion King",
+      "poster": "https://imgs.search.brave.com/4CKP7fpd66Ah1qqqGnPj7QDhGo_j7f9WZflvft8m3Ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qSXdNakUx/TnpjNE5WNUJNbDVC/YW5CblhrRnRaVGd3/TkRnNE9UQTFOek1A/LmpwZw",
+      "genre": "Animation, Adventure, Drama",
+      "runtime": "88 min"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "poster": "https://imgs.search.brave.com/gTCrHVQQgKCT0otDp1aVcdJNH_rBtweGCKBsdipqYtE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/Lzcxd3l0b3BOaFBM/LmpwZw",
+      "genre": "Crime, Drama, Thriller",
+      "runtime": "118 min"
+    },
+    {
+      "title": "Saving Private Ryan",
+      "poster": "https://imgs.search.brave.com/heKP3KfqboK6H7KtpzmCpcnNUoW3LNb4iklk00wbdaE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVub2ZnZWVrLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wNC9Ub20tSGFu/a3MtYW5kLU1hdHQt/RGFtb24taW4tU2F2/aW5nLVByaXZhdGUt/Unlhbi5qcGVnP3Jl/c2l6ZT00MDAsNDAw",
+      "genre": "Drama, War",
+      "runtime": "169 min"
+    },
+    {
+      "title": "Schindler's List",
+      "poster": "https://imgs.search.brave.com/P6h6DfXtIQT4La0e8NoyFWE0P5ME50ngQolLus32wvQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly92aXN0/YXBvaW50ZS5uZXQv/aW1hZ2VzL3NjaGlu/ZGxlcnMtbGlzdC0x/MC5qcGc",
+      "genre": "Biography, Drama, History",
+      "runtime": "195 min"
+    },
+    {
+      "title": "Braveheart",
+      "poster": "https://imgs.search.brave.com/3IJ4S5LFvmQL1aYinKIvJmDP7EZL_LPSoRoieYjEjhU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTFlalZ0S3lOWUwu/anBn",
+      "genre": "Biography, Drama, History",
+      "runtime": "178 min"
+    },
+    {
+      "title": "The Departed",
+      "poster": "https://imgs.search.brave.com/9wN8vb7U5nA_J1wuV3YndRbcD3DuRFpu7AFxZj2jFCc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kNWQ1/eWVqcmJhOWxvLmNs/b3VkZnJvbnQubmV0/L2tleWFydC1qcGVn/L21vdmllcy9tZWRp/YS9icm93c2VyL2Rl/cGFydGVkX3ZfZGRf/a2FfdHRfMjAwMHgz/MDAwXzMwMGRwaV9l/bl81NWNmMjBjZS5q/cGVn",
+      "genre": "Crime, Drama, Thriller",
+      "runtime": "151 min"
+    },
+    {
+      "title": "Inglourious Basterds",
+      "poster": "https://imgs.search.brave.com/66clUjZmMrnRF65bTO6jIgrlCr-p20d2CVlLISNcKew/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGFjaGV0dGVib29r/Z3JvdXAuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAx/Lzk3ODAzMTYwODA2/NTEuanBnP3c9NDEw",
+      "genre": "Adventure, Drama, War",
+      "runtime": "153 min"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "poster": "https://imgs.search.brave.com/uG7W9PfAh_yvQpe-HSb6it3B7HeStbTMgf1EjjQRhkY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDY2/NjM4Njg4L2ZyL3Bo/b3RvL25ldy15b3Jr/LW55LWxlb25hcmRv/LWRpY2FwcmlvLWlz/LXNlZW4tb24tdGhl/LXNldC1vZi10aGUt/d29sZi1vZi13YWxs/LXN0cmVldC1vbi1z/ZXB0ZW1iZXItMjEu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PThHX2VCT1hlYmFn/MnVvYS1iSWVSMXl1/ZjB4Zm00dTdhZGlu/LUdzSmxfTU09",
+      "genre": "Biography, Comedy, Crime",
+      "runtime": "180 min"
+    },
+    {
+      "title": "Django Unchained",
+      "poster": "https://imgs.search.brave.com/hZHejuMrC1EHnIuHWUm_c7IP3LAdUe7q-X-rJo9M2Mo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzAwL2M4/L2JkLzAwYzhiZGRi/M2Y1NmFiNmFiNzIw/MGQ1MmM1YTM5ZmQz/LmpwZw",
+      "genre": "Drama, Western",
+      "runtime": "165 min"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "poster": "https://imgs.search.brave.com/PReWoS1OalJ2oO0kQLUOvK1gMVCXbTIrpzEL4Z5w5dY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pcnMu/d3d3Lndhcm5lcmJy/b3MuY29tL2tleWFy/dC1qcGVnL21hZF9t/YXhfZnVyeV9yb2Fk/X3dodl9rZXlhcnQu/anBn",
+      "genre": "Action, Adventure, Sci-Fi",
+      "runtime": "120 min"
+    },
+    {
+      "title": "The Prestige",
+      "poster": "https://imgs.search.brave.com/WE9rLGqSjccnTWFCNDwoUbJ8r6pYpUt3tzaQVogi3Q8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L3N0YXRpYy5yb2dl/cmViZXJ0LmNvbS91/cGxvYWRzL21vdmll/L21vdmllX3Bvc3Rl/ci90aGUtcHJlc3Rp/Z2UtMjAwNy9sYXJn/ZV81TVh5UWZ6OHhV/UDNkSUZQVHViaFRz/YkZZNk4uanBn",
+      "genre": "Drama, Mystery, Sci-Fi",
+      "runtime": "130 min"
+    },
+    {
+      "title": "Whiplash",
+      "poster": "https://imgs.search.brave.com/m2St225FrJ6F9h8mztCgOZAczlGb2ibg0nH66HoH9AI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9EWmpOMkUy/TkRjdE9XWmxNeTAw/TUdFMExXRmxNbU10/WVdZME16YzFOREEy/TjJWa1hrRXlYa0Zx/Y0dkZVFYVnlORFV6/TnpFeE9URUAuanBn",
+      "genre": "Drama, Music",
+      "runtime": "106 min"
+    },
+    {
+      "title": "The Social Network",
+      "poster": "https://imgs.search.brave.com/FZUq1kWzteAtqqBQ4l83JhzpftwO_OWHxTRbGKeghPo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLnNyY2RuLmNv/bS93b3JkcHJlc3Mv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDMvdGhlLXNvY2lh/bC1uZXR3b3JrLTEu/anBn",
+      "genre": "Biography, Drama",
+      "runtime": "120 min"
+    },
+    {
+      "title": "Parasite",
+      "poster": "https://imgs.search.brave.com/yrI3S7PQCgLpC-6h79zFy6qR5XWJ4Mfvp1GC6vtwAMw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMxLmlnbmltZ3Mu/Y29tLzIwMTkvMDgv/MTQvcGFyYXNpdGUt/MjAxOS1idXR0b24t/MTU2NTgxMzE5NjU0/NC5qcGc_d2lkdGg9/MTE0JmF1dG89d2Vi/cA",
+      "genre": "Comedy, Drama, Thriller",
+      "runtime": "132 min"
+    },
+    {
+      "title": "Get Out",
+      "poster": "https://imgs.search.brave.com/4KEC36Gd57K7y_5etwCv0omxXui0IMFS8VRU8G-FWo4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1qVXhNRFF3/TmpjeU5sNUJNbDVC/YW5CblhrRnRaVGd3/Tnpjd016YzBNVElA/LmpwZw",
+      "genre": "Horror, Mystery, Thriller",
+      "runtime": "104 min"
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "poster": "https://imgs.search.brave.com/ypFIaH55C-h1fq4cqXERF8sMqGouKIficajtTuFXS1A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1UVTVOREE1/TURRM00xNUJNbDVC/YW5CblhrRnRaVGd3/Tmpjd09EWXlNVEVA/LmpwZw",
+      "genre": "Adventure, Comedy, Crime",
+      "runtime": "99 min"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "poster": "https://imgs.search.brave.com/0WJ8demqGy1LRYaMGdasozrujQ40JuV_47P87wb0pZc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk16Y3dZV0Zr/WXprdFpqQXpOQzAw/T0dZMUxXSTRZVGd0/TnpjNU16VmpNRFZt/TmpZMFhrRXlYa0Zx/Y0dkZVFYVnlNVFF4/TnpNek5ESUAuanBn",
+      "genre": "Biography, Drama",
+      "runtime": "135 min"
+    },
+    {
+      "title": "Memento",
+      "poster": "https://imgs.search.brave.com/9iALWMMWJJfFS2Wwemgm7obs6oSx6jPKJlKTchJwc7Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpUY3lOamsx/TWpndE9XSTNNaTAw/WXpRd0xXSTVNVGt0/TXpZNFptSTJOREF5/TnpZelhrRXlYa0Zx/Y0dkZVFYVnlOalUw/T1RRME9UWUAuanBn",
+      "genre": "Mystery, Thriller",
+      "runtime": "113 min"
+    },
+    {
+      "title": "American Beauty",
+      "poster": "https://imgs.search.brave.com/9xsXKrBKxMEOjJZRsBudA2OyGHkSa9wCgb7tNjebm3s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5EazFOV05q/TXpRdFlqRXpZeTAw/WXpobUxXRXpZemd0/TUdVMU5XWmlZemxq/TVdOalhrRXlYa0Zx/Y0dkZVFYVnlPRGMw/T1RFeU5EVUAuanBn",
+      "genre": "Drama",
+      "runtime": "122 min"
+    },
+    {
+      "title": "The Truman Show",
+      "poster": "https://imgs.search.brave.com/UJL-yc17HioU7zRx-M_Z9sA5S-Y1a5piebD0OmGPuP0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L25pZ2h0amFycHJv/ZC9jb250ZW50L3Vw/bG9hZHMvc2l0ZXMv/MTkyLzIwMjMvMDgv/MTUxMTUxMTEvdnV6/YTBXcVkyMzl5QlhP/YWRLbEd3SnNaSkZF/LmpwZw",
+      "genre": "Comedy, Drama",
+      "runtime": "103 min"
+    },
+    {
+      "title": "The Sixth Sense",
+      "poster": "https://imgs.search.brave.com/STJ2RIC0AaetHqi8OjZK5xqDpcnJugL8gc7pzSo5_iY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1XTTROVEZo/WWpjdE56VXlOaTAw/TkdNd0xUazNOVFl0/TURJeU5UWm1NelJs/WW1ReVhrRXlYa0Zx/Y0dkZVFYVnlNVEF3/TXpVeU9UY0AuanBn",
+      "genre": "Drama, Mystery, Thriller",
+      "runtime": "107 min"
+    },
+    {
+      "title": "The Green Mile",
+      "poster": "https://imgs.search.brave.com/3Zw6nJh2LgFNaVUEv99kvdGvHcEn-jVFkjeS_h5hsUA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzkxckIxRGRxZVJM/LmpwZw",
+      "genre": "Crime, Drama, Fantasy",
+      "runtime": "189 min"
+    },
+    {
+      "title": "The Pianist",
+      "poster": "https://imgs.search.brave.com/x6BJ8V24Prsu6NU93NLj4EqjzGXaN-n9kAkbpA5FhDE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/OTE2NDg3Ny9waG90/by9tYW4tcGxheWlu/Zy10aGUtcGlhbm8u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PUZZUjVyZjF2b1Qz/SlpxZ3RqNml5MUt5/Ny1PS1FMNXUtU0o4/dzUybWozM1k9",
+      "genre": "Biography, Drama, Music",
+      "runtime": "150 min"
+    },
+    {
+      "title": "Black Swan",
+      "poster": "https://imgs.search.brave.com/GKFRjvvhg7pCuey5OqJQsrIFMYUVmJVzT5fbqD_OEmM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L3N0YXRpYy5yb2dl/cmViZXJ0LmNvbS91/cGxvYWRzL21vdmll/L21vdmllX3Bvc3Rl/ci9ibGFjay1zd2Fu/LTIwMTAvbGFyZ2Vf/cFBPYzQzMEptN2xw/Skg2TTRucUdiSDJR/QkVoLmpwZw",
+      "genre": "Drama, Thriller",
+      "runtime": "108 min"
+    },
+    {
+      "title": "The Imitation Game",
+      "poster": "https://imgs.search.brave.com/fRJqAA4Jy9ueDjOLLMYVQVptQ4kcCeasVD6CauK9kqk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9waWNz/LmZpbG1hZmZpbml0/eS5jb20vdGhlX2lt/aXRhdGlvbl9nYW1l/LTk2ODU4ODY0Mi1s/YXJnZS5qcGc",
+      "genre": "Biography, Drama, Thriller",
+      "runtime": "113 min"
+    },
+    {
+      "title": "Spotlight",
+      "poster": "https://imgs.search.brave.com/DS5K0UDvMO-EtgJlRVHPfq-1fjguqVxaSf1EZZMtIYA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1UY3hPRFUw/TlRrMU1WNUJNbDVC/YW5CblhrRnRaVGd3/TnpNeU1ERXlOekVA/LmpwZw",
+      "genre": "Biography, Crime, Drama",
+      "runtime": "129 min"
+    }
+]
+  
